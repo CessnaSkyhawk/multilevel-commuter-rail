@@ -1,0 +1,12 @@
+{
+    "id": "com.CessnaSkyhawk.MultiLevelCommuterRail",
+    "name": "MultiLevel Commuter Rail",
+    "description": "Add multilevel diesel and electric commuter rail trains based on NJT rolling stock to the game",
+    "version": "1.0.0",
+    "author": {
+        "name": "CessnaSkyhawk"
+    },
+    "dependencies": {
+        "subway-builder": ">=1.7.12"
+    }
+}
